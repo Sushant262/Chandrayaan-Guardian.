@@ -12,5 +12,5 @@ Demo video of the Gameplay- https://github.com/Sushant262/Chandrayaan-Guardian-C
 
 Player Respawn/Collision Demo Video- https://github.com/Sushant262/Chandrayaan-Guardian-CG/assets/141551971/90ba0271-2b0b-41d9-a9ec-c42cd5c7f3ad
 
-Download Android APK-Mobile Version Final APK/Android Playable Build.apk
+Download Android APK-https://github.com/Sushant262/Chandrayaan-Guardian./blob/main/Mobile%20Version%20Final%20APK/Android%20Playable%20Build.apk
  
