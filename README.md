@@ -15,4 +15,3 @@ Player Respawn/Collision Demo Video- https://github.com/Sushant262/Chandrayaan-G
 Want to play on Windows?
 Click here and Play - https://github.com/Sushant262/Chandrayaan-Guardian./blob/main/Chandrayaan%20Guardian.exe
  
- https://github.com/Sushant262/Chandrayaan-Guardian-CG/blob/main/explosion.png
