@@ -6,7 +6,7 @@ The game opens with the Main Menu and when we hit the play Button the game start
 
 Its a endless firing tower(Chandrayaan) defense game with score and lives shown in the top left corner of the game.
 
-You can also switch between the Player and the Chandrayaan Rocket just by pressing a Button.
+You can also switch between the Player and the Chandrayaan Rocket just by pressing a Buton.
 
 Demo video of the Gameplay- https://github.com/Sushant262/Chandrayaan-Guardian-CG/assets/141551971/2f83551c-4e41-4b17-a1b0-af312d2bfbfe
 
