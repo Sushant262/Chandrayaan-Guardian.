@@ -7,6 +7,14 @@ using UnityEngine.PlayerLoop;
 
 public class GameManager : MonoBehaviour
 {
+    public GameObject InsideTimer;
+
+    public GameObject cooldownTimer;
+
+    public GameObject overheated;
+
+    public GameObject RTF;
+
     public GameObject Chandrayaann;
 
     //public Behaviour Unwanted;
@@ -102,13 +110,13 @@ public class GameManager : MonoBehaviour
       //  Respawn();
     }
 
-    private void SetScore(int score)
+    public void SetScore(int score)
     {
         this.score = score;
         scoreText.text = score.ToString();
     }
 
-    private void SetLives(int lives)
+    public void SetLives(int lives)
     {
         this.lives = lives;
         livesText.text = lives.ToString();
@@ -187,6 +195,10 @@ public class GameManager : MonoBehaviour
     }
     public void GameOver()
     {
+        cooldownTimer.SetActive(false);
+        InsideTimer.SetActive(false);
+        overheated.SetActive(false);
+        RTF.SetActive(false);
         //Unwanted.enabled = false;
         //Destroy(alien);
         Destroy(alienSpawner);
