@@ -12,7 +12,7 @@ You can shoot with the Chandrayaan machine gun which has greater mobility and fi
 Then we need to switch to the Robot in order to protect the Chandrayaan from various small and large asteroids.
 
 The Robot has 3 Lives. The Lives of the Robot are shown at the top left corner.
-Chandrayaan have a certain amount of health(hp) which we can track with the help of the health bar at the top right corner.
+Chandrayaan has a certain amount of health(hp) which we can track with the help of the health bar at the top right corner.
 The health of the chandrayaan reduces after each hit of the asteroid and the Robot also loses his Life after collision/hit with the asteroid.
 
 If the Chandrayaan loses all its health(hp) or if the Robot loses all of its Lives then...............GAME OVER.
