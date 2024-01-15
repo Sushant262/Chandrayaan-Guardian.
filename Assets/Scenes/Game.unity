@@ -308,7 +308,7 @@ MonoBehaviour:
   trajectoryVariance: 15
   spawnRate: 2
   spawnDistance: 15
-  spawnAmount: 5
+  spawnAmount: 3
 --- !u!4 &75278302
 Transform:
   m_ObjectHideFlags: 0
@@ -1316,8 +1316,8 @@ MonoBehaviour:
   overheated: {fileID: 1305645468}
   InsideTimer: {fileID: 339499799}
   cooldownTimer: {fileID: 1980033232}
-  cooldownTime: 5
-  InsideTime: 10
+  cooldownTime: 15
+  InsideTime: 15
   JPressed: 0
   HPressed: 0
   respawnTime: 0.1
@@ -8767,7 +8767,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Overheated!
+  m_text: "Overheated! \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -8936,7 +8936,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Guns Activated!
+  m_text: "Guns Activated! \n      'H'"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}

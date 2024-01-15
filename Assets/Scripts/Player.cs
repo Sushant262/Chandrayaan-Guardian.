@@ -35,11 +35,12 @@ public class Player : MonoBehaviour
         else if (Input.GetKey(KeyCode.D)) { _turnDirection = -1.0f; }
         else { _turnDirection = 0.0f; }
 
-        if(Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0))
+        if//(Input.GetKeyDown(KeyCode.Space) ||
+         ( Input.GetMouseButtonDown(0))
         {
             Shoot();
         }
-      //  if (Input.GetKeyDown(KeyCode.C))
+      //  if (Input.GetKeyDown(KeyCode.C)) 
       // {
        //     TakeDamage(20);
        // }

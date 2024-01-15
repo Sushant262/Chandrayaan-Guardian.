@@ -58,7 +58,7 @@ public class Chandrayaan : MonoBehaviour
         if (collision.gameObject.tag == "Alien")
         {
             ChandAlienCollision.Play();
-            TakeDamage(20);
+            TakeDamage(10);
            Destroy(collision.gameObject);
 
             if(currentHealth <= 0)
@@ -137,7 +137,7 @@ public class Chandrayaan : MonoBehaviour
                 cooldownTimer.gameObject.SetActive(false);
                 //InsideTime += 1 * Time.deltaTime;
                 InsideTimer.gameObject.SetActive(true);
-                InsideTime = 10;
+                InsideTime = 15;
                 this.player.gameObject.SetActive(false);
                 Player = false;
             }
@@ -174,7 +174,7 @@ public class Chandrayaan : MonoBehaviour
                 cooldownTimer.gameObject.SetActive(true);
                 Overheated.gameObject.SetActive(true);
                 //this.player.gameObject.SetActive(true);
-                cooldownTime = 5;
+                cooldownTime = 15;
                 Player = true;
                 PlayerDeathSound.Play();
                 Invoke(nameof(Respawn), this.respawnTime);
@@ -198,7 +198,7 @@ public class Chandrayaan : MonoBehaviour
                 Overheated.gameObject.SetActive(true);
                 cooldownTimer.gameObject.SetActive(true);
                 //this.player.gameObject.SetActive(true);
-                cooldownTime = 5;
+                cooldownTime = 15;
                 Player = true;
                 PlayerDeathSound.Play();
                 Invoke(nameof(Respawn), this.respawnTime);
