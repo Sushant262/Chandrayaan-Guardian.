@@ -21,5 +21,7 @@ Demo video of the Gameplay- https://github.com/Sushant262/Chandrayaan-Guardian-C
 
 Robot Respawn/Collision Demo Video- https://github.com/Sushant262/Chandrayaan-Guardian-CG/assets/141551971/90ba0271-2b0b-41d9-a9ec-c42cd5c7f3ad
 
+Playable Build - https://play.unity.com/mg/other/webgl-builds-386416
+
 
  
