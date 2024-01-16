@@ -17,10 +17,6 @@ The health of the Chandrayaan reduces after each hit of the asteroid and the Rob
 
 If the Chandrayaan loses all its health(hp) or if the Robot loses all of its Lives then................GAME OVER.
 
-Demo video of the Gameplay- https://github.com/Sushant262/Chandrayaan-Guardian-CG/assets/141551971/2f83551c-4e41-4b17-a1b0-af312d2bfbfe
-
-Robot Respawn/Collision Demo Video- https://github.com/Sushant262/Chandrayaan-Guardian-CG/assets/141551971/90ba0271-2b0b-41d9-a9ec-c42cd5c7f3ad
-
 Playable Build - https://play.unity.com/mg/other/webgl-builds-386416
 
 
