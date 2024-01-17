@@ -1,5 +1,8 @@
 # Chandrayaan-Guardian
 
+![CG Updated GIF](https://github.com/Sushant262/Chandrayaan-Guardian./assets/141551971/d51999b9-04bb-4653-b5f4-7f8dbdadb6ab) Playable Build - https://play.unity.com/mg/other/webgl-builds-386416
+
+
 Chandrayaan Guardian is a fun to play 2D Game.
 
 The game opens with the Main Menu and when we hit the play Button the intensity and fun starts.
@@ -17,12 +20,9 @@ The health of the Chandrayaan reduces after each hit of the asteroid and the Rob
 
 If the Chandrayaan loses all its health(hp) or if the Robot loses all of its Lives then................GAME OVER.
 
-Playable Build - https://play.unity.com/mg/other/webgl-builds-386416
 
 
 
-
-![CG Updated GIF](https://github.com/Sushant262/Chandrayaan-Guardian./assets/141551971/d51999b9-04bb-4653-b5f4-7f8dbdadb6ab)
 
 
 
