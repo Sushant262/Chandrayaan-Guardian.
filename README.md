@@ -13,7 +13,7 @@
 
 >You can  switch between the Robot and the Chandrayaan Rocket just by pressing a Button (H) and again get out of the Chandrayaan by pressing (J).
 
->You can shoot with the Chandrayaan machine gun which has greater mobility and fire rate than the Robot but, it has a cooldown as the machine gun gets overheated....
+>You can shoot with the Chandrayaan machine gun which has greater mobility and fire rate than the Robot but, it has a cooldown as the machine gun gets overheated.
 >Then we need to switch to the Robot in order to protect the Chandrayaan from various small and large asteroids.
 
 >The Robot has 3 Lives. The Lives of the Robot are shown at the top left corner.
