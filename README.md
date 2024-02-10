@@ -9,7 +9,7 @@
 
 >The game open with the Main Menu and when we hit the play Button the intensity and fun starts.
 
->Its a endles firing tower(Chandrayaan) defense game with score and lives shown in the top left corner of the game.
+>Its a endless firing tower(Chandrayaan) defense game with score and lives shown in the top left corner of the game.
 
 >You can  switch between the Robot and the Chandrayaan Rocket just by pressing a Button (H) and again get out of the Chandrayaan by pressing (J).
 
