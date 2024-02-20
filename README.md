@@ -7,7 +7,7 @@
 
 >Chandrayaan Guardian is a fun to play 2D Game.
 
->The game opens with the Main Menu and when we hit the play Button the intensity and fun starts.
+>The game opens with the Main Menu and when we hit the play button the intensity and fun starts.
 
 >Its a endles firing tower(Chandrayaan) defense game with score and lives shown in the top left corner of the game.
 
