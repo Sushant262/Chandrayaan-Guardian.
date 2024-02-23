@@ -1,4 +1,4 @@
-# Chandrayan-Guardian
+# Chandrayaan-Guardian
 
 >![CG Updated GIF](https://github.com/Sushant262/Chandrayaan-Guardian./assets/141551971/d51999b9-04bb-4653-b5f4-7f8dbdadb6ab) 
 
